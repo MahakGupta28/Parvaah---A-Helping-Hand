@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553136522970",
+    "firebase_url": "https://parvaah-fcf5e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "parvaah-fcf5e",
+    "storage_bucket": "parvaah-fcf5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553136522970:android:400f6808af1f8fc51cc7e3",
+        "android_client_info": {
+          "package_name": "com.example.parvaah_helping_hand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553136522970-7vmbpmjmgud3a7cpbkd4bh96t3dqv8tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parvaah_helping_hand",
+            "certificate_hash": "154a94cc6f7f0184deee2badd72df98bacf8a406"
+          }
+        },
+        {
+          "client_id": "553136522970-rgj9koctqc2n34k5vrk4rn2sqs9gqd50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ut2mAe16H2OR0HZ99A3PtsiCTfivgy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553136522970-pedi6j6t6sm7ios379u4rmd7mcgs5be3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553136522970-carilt00tqisb1d1nrip3216lf898efb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parvaahHelpingHand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
